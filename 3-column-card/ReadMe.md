@@ -12,7 +12,7 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/screenshot/screenshot.jpg)
 
 ### Links
 
@@ -30,3 +30,4 @@
 - Frontend Mentor - [@Cyrus-Akwaboah-Emmanuel](https://www.frontendmentor.io/profile/Cyrus-Akwaboah-Emmanuel)
 - Twitter - [@blue_scorpion15
 ](https://x.com/blue_scorpion15)
+
